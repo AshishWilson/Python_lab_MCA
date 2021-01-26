@@ -1,4 +1,4 @@
-N=int(input("umber of name : "))
+N=int(input("number of name : "))
 listed = []
 count=0
 for i in range(N):
